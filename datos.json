@@ -1,0 +1,49 @@
+ [
+    {   "id": 1, 
+        "nombre": "Monstera",
+        "categoria": "exterior",
+        "stock": 5, 
+        "precio": 13000,
+        "rutaImagen": "Monstera.png"
+},
+    
+    {   "id": 2, 
+        "nombre": "Calathea", 
+        "categoria": "exterior", 
+        "stock": 7, 
+        "precio": 15500, 
+        "rutaImagen": "calathea.png"
+},
+    
+    {   "id": 3, 
+        "nombre": "Limonero", 
+        "categoria": "exterior", 
+        "stock": 4, 
+        "precio": 17800, 
+        "rutaImagen": "limonero-1.png"
+},
+
+    {   "id": 4, 
+        "nombre": "Gomero", 
+        "categoria": "exterior", 
+        "stock": 9, 
+        "precio": 11000, 
+        "rutaImagen": "gomero.png"
+},
+    
+    {   "id": 5, 
+        "nombre": "Zebrinha", 
+        "categoria": "interior", 
+        "stock": 4, 
+        "precio": 7100, 
+        "rutaImagen": "zebrinha.png"
+},
+
+    {   "id": 6, 
+        "nombre": "Philodendron", 
+        "categoria": "interior", 
+        "stock": 7, 
+        "precio": 850, 
+        "rutaImagen": "Philodendron.png" 
+}
+]
